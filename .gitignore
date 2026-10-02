@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output / personal logs
+focus_report.txt
+
+# Temp image files
+test_*.png
+cat_board.png
